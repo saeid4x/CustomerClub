@@ -1,0 +1,27 @@
+.SideNavigation{
+    border:1px solid red;
+    width:220px;
+    height: 100%;
+    float: right;
+}
+.customerSideNav-avatar{
+    border:1px solid greenyellow;
+    height:200px;
+
+}
+.customerSideNav-avatar img{
+    border:1px solid greenyellow;
+    width:100px;
+    height: 100px;
+    margin:20px 0 0 70px;
+    border-radius: 20%;
+}
+
+.customerSideNav-avatar-username{
+    font-size:25px;
+    margin:0 0 0 60px;
+}
+.customerSideNav-avatar-typeUser{
+    font-size:18px;
+    margin:0 0 0 80px;
+}

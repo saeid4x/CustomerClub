@@ -1,0 +1,17 @@
+.CompleteReport{
+    border:3px solid purple;
+    width:80%;
+    margin-left:20px;
+    
+
+}
+.CompleteReport-table{
+    float: right;
+    direction: rtl
+}
+.CompleteReport-table tr,td,th{
+    border:1px solid black;
+     
+    
+  
+}
